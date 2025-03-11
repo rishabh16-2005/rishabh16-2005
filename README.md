@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on AI/ML/DL Projects
-- 📫 How to reach me mail--rishabhgalave@gmail.com
+- 📫 How to reach me rishabhgalave@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves To Play Video Games
 
