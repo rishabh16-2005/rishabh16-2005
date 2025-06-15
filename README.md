@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rishabh Galave
+- 👋 Hi, I’m Rishabh Galave , A Third Year UnderGrad in Veermata Jijabai Technological Institue
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on AI/ML/DL Projects
